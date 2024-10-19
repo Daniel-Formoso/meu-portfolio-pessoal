@@ -189,7 +189,7 @@ section.ultima-section {
 
 .minha-imagem-apresentacao img {
     animation: flutuar 2s ease-in-out infinite;
-    width: 350px;
+    width: 300px;
 }
 
 .container-conteudo-texto {
@@ -229,7 +229,7 @@ section.ultima-section {
 }
 
 .link button {
-    border: 1px solid var(--cor-borda);
+    border: none;
     border-radius: 25px;
     background: var(--degrade);
     padding: 10px 15px;
@@ -422,7 +422,7 @@ form input::placeholder, form textarea::placeholder {
 
 form input, form textarea {
     /* width: 100%; */
-    padding:15px 15px;
+    padding:15px;
     border: 0;
     outline: 0;
     background: #5f5f5f3d;
@@ -437,15 +437,16 @@ form textarea {
 }
 
 .btn-enviar {
-    margin: 20px auto 0 auto;
+    margin-top: 20px;
     text-align: center;
-    width: 50%;
 }
 
 .btn-enviar input {
-    padding: 20px;
+    padding: 15px 40px;
+    border-radius: 40px;
     background: var(--degrade);
     color: var(--bg-color);
+    font-size: 18px;
     font-weight: 700;
     cursor: pointer;
     transition: .5s;
