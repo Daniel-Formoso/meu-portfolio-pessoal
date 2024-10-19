@@ -458,6 +458,7 @@ form textarea {
 
 /* ! FOOTER */
 footer {
+    border-top: 1px solid var(--cor-principal);
     height: 105px;
     display: flex;
     flex-direction: column;

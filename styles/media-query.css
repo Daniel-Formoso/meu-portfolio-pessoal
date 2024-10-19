@@ -300,11 +300,11 @@
 
     form textarea {
         resize: none;
-        height: 150px;
+        height: 110px;
     }
 
     form input, form textarea {
-        padding: 30px 20px;
+        padding: 25px 15px;
     }
 
     form input::placeholder, form textarea::placeholder {
