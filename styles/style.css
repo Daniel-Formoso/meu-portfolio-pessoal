@@ -362,7 +362,7 @@ section.ultima-section {
     border-radius: 20px;
     border: 0;
     background: var(--degrade);
-    transition: .8s;
+    transition: .2s;
 }
 
 .projetos-links button:hover {
@@ -376,22 +376,32 @@ section.ultima-section {
     font-weight: 700;
 }
 
-.link-ver-mais {
+.botao-ver-mais {
     text-align: center;
-    padding-top: 10px;
 }
 
-.link-ver-mais a {
-    text-decoration: none;
-    color: var(--cor-letra);
-    padding: 5px;
-    transition: .5s;
+
+.botao-ver-mais button {
+    margin-top: 15px;
+    padding: 10px 15px;
+    background: var(--degrade);
+    color: var(--bg-color);
+    font-weight: 700;
+    border-radius: 20px;
+    border: 0;
+    /* transition: .2s; */
 }
 
-.link-ver-mais a:hover {
-    border-bottom: 1px solid var(--cor-principal);
-    color: var(--cor-principal);
-    opacity: .5;
+.botao-ver-mais button:hover {
+    background: var(--cor-letra);
+}
+
+.hidden {
+    display: none;
+}
+
+.container-escondido {
+    color: white;
 }
 
 /* ! FORMULARIO */

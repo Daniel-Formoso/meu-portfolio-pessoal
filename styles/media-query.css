@@ -131,6 +131,10 @@
         padding: 15px 30px;
     }
 
+    .botao-ver-mais button {
+        padding: 15px 30px;
+    }
+
     /* ! FORMULARIO */
     .container-conteudo-titulo.contato h2 {
         margin-top: 50px;
@@ -148,7 +152,23 @@
     form input::placeholder, form textarea::placeholder {
         font-family: var(--fonte-principal);
         font-size: 15px;
+    }
 
+    .contato h3 {
+        font-size: 25px;
+    }
+
+    .contato-texto img {
+        width: 40px;
+    }
+
+    .contato-texto p {
+        font-size: 20px;
+    }
+
+    /* ! FOOTER */
+    .autor-do-site p {
+        font-size: 20px;
     }
 
 }
@@ -241,31 +261,41 @@
     }
 
     /* ! PROJETOS */
-    section.section-projetos {
-        height: 100vh;
-    }
-
-    .link-ver-mais a {
-        font-size: 22px;
-    }
-
     .projetos {
         padding: 20px;
         width: auto;
     }
 
+    .projetos.escondido {
+        width: auto;
+        padding: 20px 5px;
+    }
+
+    .container-escondido {
+        width: 40%;
+        margin: 0 auto;
+    }
+
     .projetos img {
-        width: 300px;
+        width: auto;
     }
 
     .container-conteudo-projetos {
         display: flex;
-        gap: 10px;
+        flex-direction: row;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 50px;
     }
+
+    .botao-ver-mais {
+        margin-bottom: 100px;
+    }
+
 
     /* ! FORMULARIO / CONTATO */
     form {
-        width: 30%;
+        width: 50%;
     }
 
     form textarea {
@@ -274,7 +304,7 @@
     }
 
     form input, form textarea {
-        padding: 20px;
+        padding: 30px 20px;
     }
 
     form input::placeholder, form textarea::placeholder {
