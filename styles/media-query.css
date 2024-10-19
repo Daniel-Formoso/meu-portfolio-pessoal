@@ -86,7 +86,7 @@
     /* ! EXPERIENCIA */
     .conteudo-experiencia-1 {
         margin-top: 50px;
-        padding: 20px;
+        padding: 10px 0px;
     }
 
     .conteudo-titulo {
@@ -99,6 +99,7 @@
 
     .conteudo-experiencia {
         display: flex;
+        justify-content: center;
     }
 
     .conteudo-texto p {
