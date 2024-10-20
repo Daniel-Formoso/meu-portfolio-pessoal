@@ -127,8 +127,12 @@
         font-size: 20px;
     }
 
+    .projetos-links button a {
+        padding: 10px;
+    }
+
     .projetos-links button {
-        padding: 15px 30px;
+        padding: 15px 20px;
     }
 
     .botao-ver-mais button {
@@ -264,6 +268,10 @@
     .projetos {
         padding: 20px;
         width: auto;
+    }
+
+    .projetos-links button a {
+        padding: 15px;
     }
 
     .projetos.escondido {

@@ -365,6 +365,10 @@ section.ultima-section {
     transition: .2s;
 }
 
+.projetos-links button a {
+    padding: 5px;
+}
+
 .projetos-links button:hover {
     background: var(--cor-letra);
     transform: scale(1.05);
@@ -389,6 +393,7 @@ section.ultima-section {
     font-weight: 700;
     border-radius: 20px;
     border: 0;
+    cursor: pointer;
     /* transition: .2s; */
 }
 
