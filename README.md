@@ -18,6 +18,6 @@
 [Clique aqui para acessar](https://meu-site-murex-chi.vercel.app/)
 
 ## Contatos:
-- [E-mail](daniel.formoso100@gmail.com)
+- E-mail: daniel.formoso100@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/danielformoso/)
 
