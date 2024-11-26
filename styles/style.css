@@ -42,7 +42,6 @@ section:not(.primeira-section) {
 }
 
 section.primeira-section {
-    border: 1px solid red;
     height: calc(100vh - 135px);
     display: flex;
     align-items: center;
