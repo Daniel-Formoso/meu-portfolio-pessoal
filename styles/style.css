@@ -279,7 +279,14 @@ section.ultima-section {
     margin-top: 5px;
 }
 
+.container-conteudo-certificados p {
+    text-align: justify;
+    padding: 10px 0;
+    font-size: 16px;
+}
+
 .certificado {
+    /* border: 1px solid red; */
     display: flex;
     font-size: 15px;
     gap: 5px;

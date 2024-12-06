@@ -248,6 +248,10 @@
         width: 400px;
     }
 
+    .container-conteudo-certificados p {
+        font-size: 20px;
+    }
+
     .container-certificados h2 {
         font-size: 35px;
     }
