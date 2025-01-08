@@ -15,7 +15,7 @@
 - Seção de projetos com o botão "Ver mais"
 
 ## Aesse o Portfólio:
-- [Deploy](https://meu-site-murex-chi.vercel.app/)
+- [Deploy](https://portfolio-pessoal-react-psi.vercel.app/)
 
 ## Quer ver outros projetos? Acesse o meu GitHub!
 - [GitHub](https://github.com/Daniel-Formoso)  
