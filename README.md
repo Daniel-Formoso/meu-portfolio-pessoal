@@ -14,7 +14,7 @@
 - Efeitos de animação nas imagnes principais do portfólio
 - Seção de projetos com o botão "Ver mais"
 
-## Aesse o Portfólio:
+## Acesse o Portfólio:
 - [Deploy](https://portfolio-pessoal-react-psi.vercel.app/)
 
 ## Quer ver outros projetos? Acesse o meu GitHub!
